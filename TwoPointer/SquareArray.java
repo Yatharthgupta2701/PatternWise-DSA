@@ -21,7 +21,7 @@ public class SquareArray {
         return result;
     }
     public static void main(String args[]){
-        int nums[] = {-4,-1,0,3,10};
+        int nums[] = {-4,-1,0,3,10,12};
         System.out.println(Arrays.toString(squareArray(nums)));
     }
 }
